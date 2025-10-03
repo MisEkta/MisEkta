@@ -1,25 +1,78 @@
-# Time-Series-Analysis-Project-
-Real time data analysis , predicting future stock prices of stock by analysing previous stats . 
+# Hi 👋, I'm Ekta Mishra  
 
-ADF Test for Time Series Analysis
+💻 Aspiring **Software Engineer | Backend Developer**  
+🎓 Engineering Graduate (2025)  
+🚀 Passionate about **Backend Systems, APIs & Generative AI Applications**  
 
-Introduction: The Augmented Dickey-Fuller (ADF) test is a statistical test used to determine whether a unit root is present in a time series dataset. It is commonly employed in time series analysis to check for the stationarity of a series. Stationarity is a crucial assumption in many time series models, as it ensures that the statistical properties of the series do not change over time. Purpose: The purpose of this documentation is to provide an overview of the ADF test, its theoretical background, practical implementation in Python using libraries such as Statsmodels, and its interpretation in the context of time series analysis.
+---
 
-Stationarity Test for Time Series Analysis
+## 👩‍💻 About Me
+- 🔭 Experience in **FastAPI backend development** with JWT Auth & Databases  
+- 🤖 Built apps integrating **Generative AI (LLMs, NLP, Prompt Engineering)**  
+- 🌱 Currently exploring **System Design & High-Performance Architectures**  
+- 🧩 Solid foundation in **DSA, OOP, DBMS, OS, CN**  
 
-Introduction: In time series analysis, stationarity is a fundamental concept. A stationary time series is one whose statistical properties, such as mean, variance, and autocorrelation, remain constant over time. Testing for stationarity is crucial as many time series models assume that the underlying data is stationary. This documentation provides an overview of various stationary tests, their theoretical background, practical implementation in Python using libraries like Statsmodels, and interpretation in the context of time series analysis. Purpose: The purpose of this documentation is to offer a comprehensive guide on stationary tests, the concept of stationarity is used to analyse the stock's differnt attributes , selecting appropriate tests, implementing them in Python, and interpreting the results for time series analysis. Statsmodels in Time Series Analysis Project Introduction: Statsmodels is a powerful Python library that provides a wide range of tools for statistical modeling and analysis, including time series analysis. This documentation serves as a guide to using Statsmodels in a time series analysis project, providing an overview of its functionality, practical examples, and best practices. Purpose: The purpose of this documentation is to assist users in leveraging Statsmodels effectively for time series analysis projects. It covers various aspects, including data preprocessing, model estimation, diagnostics, and forecasting, to help users gain insights from their time series data.Used sub libs - tsa.ar_model , tsa.api .
+---
 
-Scikit-learn in Time Series Analysis Project Documentation
+## 🛠️ Tech Stack  
 
-Introduction: Scikit-learn, also known as sklearn, is a popular Python library for machine learning. While primarily designed for supervised learning tasks, sklearn can also be useful in time series analysis projects for tasks such as feature extraction, preprocessing, and model evaluation. This documentation serves as a guide to using sklearn effectively in a time series analysis project, covering its functionality, practical examples, and best practices. Purpose: The purpose of this documentation is to assist users in leveraging sklearn for time series analysis tasks within a machine learning framework. It aims to provide an overview of sklearn's capabilities, demonstrate its application in time series analysis, and offer guidance on best practices.For example - As a MIN MAX Analyser.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-Matplotlib in Time Series Analysis Project Documentation
+### 🔧 Backend Frameworks  
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-Introduction: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. In time series analysis projects, Matplotlib can be used to visualize time series data, model diagnostics, forecasts, and more. This documentation serves as a guide to using Matplotlib effectively in a time series analysis project, covering its functionality, practical examples, and best practices. Purpose: The purpose of this documentation is to assist users in leveraging Matplotlib for visualizing time series data and analysis results. It aims to provide an overview of Matplotlib's capabilities, demonstrate its application in time series analysis, and offer guidance on best practices for creating informative and visually appealing plots.
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Overview of Matplotlib: Matplotlib is a widely used Python library for creating high-quality visualizations. It provides a flexible and customizable interface for creating a wide variety of plots, including line plots, scatter plots, histograms, bar charts, and more. In the context of time series analysis, Matplotlib can be used for: Visualizing time series data, including trends, seasonality, and anomalies. Plotting model diagnostics, such as residual plots and autocorrelation functions. Displaying forecasts and prediction intervals.
-Keras in Time Series Analysis Project Documentation
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-Introduction: Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is designed to enable fast experimentation with deep neural networks and has gained popularity for its simplicity and ease of use. In time series analysis projects, Keras can be utilized for building and training various types of neural network models, such as recurrent neural networks (RNNs), long short-term memory networks (LSTMs), and convolutional neural networks (CNNs). This documentation serves as a guide to using Keras effectively in a time series analysis project, covering its functionality, practical examples, and best practices.
+### ☁️ Cloud & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
-Purpose: The purpose of this documentation is to assist users in leveraging Keras for time series analysis tasks, including forecasting, anomaly detection, and pattern recognition. It aims to provide an overview of Keras's capabilities, demonstrate its application in time series analysis, and offer guidance on best practices for building and training neural network models.The application of this library in our project is to calculate the density , volume GRU,Sequential attributes,Early Stopping etc.
+### 🤖 AI / ML & Others  
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2ECC71?style=for-the-badge&logo=chatgpt&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Notable Work
+- 🔐 **Secure Auth System (FastAPI)** – JWT + Refresh Tokens with hashed password storage  
+- 🤖 **GenAI-powered App** – Integrated LLMs for real-time intelligent responses  
+- 📦 **E-commerce Backend API** – End-to-end product, cart & user management system  
+- 🛠️ **Optimized DSA Repository** – Efficient solutions with time-space tradeoffs  
+
+---
+## 📊 GitHub Highlights
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisEkta&layout=compact&theme=radical)  
+---
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekta-mishra-a38096227/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ektamishra687@gmail.com)  
+
+---
+
+⭐️ From [MisEkta](https://github.com/MisEkta)
